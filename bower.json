@@ -1,0 +1,23 @@
+{
+  "name": "unfocus",
+  "description": "An accessible way of removing :focus outline on click.",
+  "main": "dist/unfocus.js",
+  "authors": [
+    "Lukas Oppermann"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "unfocus",
+    "outline",
+    "outline-none",
+    "no-focus"
+  ],
+  "homepage": "https://github.com/nuclei/unfocus",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

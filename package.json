@@ -1,0 +1,25 @@
+{
+  "name": "unfocus",
+  "version": "1.0.0",
+  "description": "An accessible way of removing :focus outline on click.",
+  "main": "dist/unfocus.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuclei/unfocus.git"
+  },
+  "keywords": [
+    "unfocus",
+    "outline",
+    "outline-none",
+    "no-focus"
+  ],
+  "author": "Lukas Oppermann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nuclei/unfocus/issues"
+  },
+  "homepage": "https://github.com/nuclei/unfocus#readme"
+}
