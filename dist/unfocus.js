@@ -1,4 +1,8 @@
 (function(document, window){
+	if (!document || !window) {
+		return;
+	}
+	
 	var styleText = '::-moz-focus-inner{border:0 !important;}:focus{outline: none !important;';
 	var unfocus_style = document.createElement('STYLE');
 
